@@ -1,0 +1,11 @@
+{
+    "type": "ibrary",
+    "autoload": {
+        "psr-4": {
+            "Some\\Space\\": "lib/"
+        }
+    },
+    "require-dev": {
+        "phing/phing": "2.8.2"
+    }
+}

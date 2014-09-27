@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="test" default="test">
+
+<taskdef name="mytask" classname="Some\Space\SomeTask"/>
+
+
+<target name="test">
+    <mytask/>
+</target>
+</project>
+
